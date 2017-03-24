@@ -1,0 +1,17 @@
+@CHARSET "ISO-8859-1";
+.odd{
+	
+}
+.even{
+	background-color:darkgrey;
+}
+p{
+	padding:40px 10px 40px 10px;
+	text-align:center;
+	margin:0;
+}
+a{
+	text-decoration:none;
+	font-size:20px;
+	font-weight:bold;
+}
